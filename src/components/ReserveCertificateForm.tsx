@@ -1,4 +1,4 @@
-import axios, { AxiosError } from "axios";
+import axios from "axios";
 import { GiftCertificate } from "../models/GiftCertificate";
 import { useEffect, useState } from "react";
 import {

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { CertificateType } from "../models/CertificateType";
-import axios, { AxiosError } from "axios";
+import axios from "axios";
 import { StatusCode } from "../models/StatusCode";
 import { STATUS_MSG } from "../constants";
 

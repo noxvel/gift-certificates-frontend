@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Form} from 'reactstrap';
+import { Container, Row, Col } from 'reactstrap';
 import { ReserveCertificateForm } from './components/ReserveCertificateForm';
 
 function App() {
